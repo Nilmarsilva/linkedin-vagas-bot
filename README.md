@@ -6,6 +6,8 @@ pessoal na minha própria busca por estágio/junior.
 
 ![Painel de vagas](docs/assets/painel.png)
 
+🎬 [Vídeo: sistema em execução](https://github.com/Nilmarsilva/linkedin-vagas-bot/releases/download/demo-video/demo-vagas-bot.mp4)
+
 ## O que faz
 
 | Componente | Função |
