@@ -1,0 +1,20 @@
+# Sessao do navegador / dados sensiveis — NUNCA commitar
+li_profile*/
+*.session
+.env
+*.env
+
+# Saida gerada pelos scripts
+painel/vagas.json
+painel/vagas.csv
+painel/vagas.html
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# SO
+Thumbs.db
+.DS_Store
